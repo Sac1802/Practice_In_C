@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/**
+ * Author: Sac1802
+ */
 
 /**
  * @brief Converts sum of two integers to binary string.
