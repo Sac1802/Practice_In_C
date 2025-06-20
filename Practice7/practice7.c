@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * Author: Sac1802
- * Date: 2023-10-30
+ * Date: 2025-06-19
  * Description: This program implements the neutralize function that compares two strings character by character.
  * If characters at the same position are equal, the character is kept in the result.
  * If they are different, '0' is placed in the result.
