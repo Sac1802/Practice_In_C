@@ -9,15 +9,18 @@ size_t get_fingers(const char *binary, enum fingers digits[5]) {
     size_t index = 0;
     size_t len = strlen(binary);
 
+    size_t shift = 5 - len;
     for (size_t i = 0; i < len; i++) {
         if (binary[i] == '1') {
-            enum fingers value = i;
+            enum fingers value = i + shift;
             if (value >= PINKIE && value <= THUMB)
                 digits[index++] = value;
         }
     }
+
     return index;
 }
+
 
 
 int main() {
