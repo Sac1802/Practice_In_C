@@ -4,6 +4,8 @@
 
 Given two arrays of integers `a` and `b`, the goal is to determine whether each element in `b` is the **square of some element in `a`**, with the **same multiplicities**, regardless of order.
 
+[Codewar](https://www.codewars.com/kata/550498447451fbbd7600041c/c)
+
 ---
 
 ## ⚙️ Key Parts of the Code
