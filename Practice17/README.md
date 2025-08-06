@@ -1,11 +1,3 @@
-Aquí tienes un **README breve y claro en inglés**, con:
-
-* Lo más importante del código 🧠
-* Ejemplos separados con entrada y salida 📥📤
-* Formato limpio para usar en GitHub o documentación 📄
-
----
-
 # 🧪 Are They the Same? – Code Summary
 
 ## 🔍 Problem Summary
