@@ -1,7 +1,3 @@
-Sure! Here's the README translated into English:
-
----
-
 # Roman Numerals Decoder in C
 
 This repository contains a solution to the [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/c) kata from Codewars, implemented in C.
